@@ -12,4 +12,7 @@ Main changes
 Authors
 -Landon Peterson
 
+Sources
+Blake Keller - Brother who has a job in coding helped me figure out some things I had struggled with
+
 Link to Deployed website - https://landonp172.github.io/Horiseon/
