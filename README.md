@@ -12,3 +12,4 @@ Main changes
 Authors
 -Landon Peterson
 
+Link to Deployed website - https://landonp172.github.io/Horiseon/
